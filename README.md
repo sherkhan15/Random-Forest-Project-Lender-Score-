@@ -32,3 +32,5 @@ We will use lending data from 2007-2010 and try to classify and predict whether 
 *delinq.2yrs: The number of times the borrower had been 30+ days past due on a payment in the past 2 years.
 
 *pub.rec: The borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).
+
+![alt text](https://github.com/sherkhan15/Random-Forest-Project-Lender-Score-/blob/master/image1.jpg)
